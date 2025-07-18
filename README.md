@@ -1,4 +1,6 @@
 🌍 Word Embedding from Scratch
+
+
 This repository implements popular word embedding techniques from scratch using pure Python and NumPy, without relying on deep learning frameworks like PyTorch or TensorFlow.
 
 Word embeddings are crucial in Natural Language Processing (NLP) for representing words in dense vector space where semantic similarity is preserved.
