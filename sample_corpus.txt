@@ -1,0 +1,3 @@
+this is a sample corpus for word embeddings
+word embeddings are useful for natural language processing
+this project demonstrates how to train and visualize word embeddings 
